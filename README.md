@@ -11,7 +11,7 @@
   - pygame module (to import and use [.mp3](https://en.wikipedia.org/wiki/MP3)))
   - time module (to mange time)
 ## Execution:
-1. Each music file will execute at specified time interval in [Desciption](https://github.com/ahmadabdullah407/Healthy_Programmer/edit/main/README.md/# Description)
+1. Each music file will execute at specified time interval in [Desciption](https://github.com/ahmadabdullah407/Healthy_Programmer/edit/main/README.md/#Description)
 2. Input 'drank' to stop and append log for water reminder music.
 3. Input 'eydone' to stop and append log for eye exercise reminder music.
 4. Input 'exdone' to stop and append log for physical exercise reminder music.
