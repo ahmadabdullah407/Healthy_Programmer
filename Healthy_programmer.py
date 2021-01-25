@@ -60,7 +60,7 @@ def exfun():
     global inex
     fex = int(time.time())
     if fex - inex > 2700: #Every 45 minutes (45*60= 2700s)
-        mixer.music.load('titanium.mp3') #add physical exercise mp3 reminder file name here
+        mixer.music.load('exer.mp3') #add physical exercise mp3 reminder file name here
         mixer.music.play(loops=-1)
         while True:
             exex = input('Write exdone if you did physical exercise\n')
